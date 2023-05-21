@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+
+    
+}
+body{
+    
+    
+    background: black;
+}
+div{
+   align-items: center;
+   text-align: center;
+}
+button{
+   cursor: pointer;
+    padding: 7px;
+}
